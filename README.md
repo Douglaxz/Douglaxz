@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span class="badge badge-primary">Troque seu texto</span>        
+<!-- Regular badges (value-only) -->
+<span class="badge badge-primary">Troque seu texto</span>     
+<!---->
