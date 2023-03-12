@@ -1,5 +1,17 @@
 ### Olá, eu sou o Douglas Amaral👋
 
+Olá, bem-vindo ao meu GitHub!
+
+Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Meu foco principal é em desenvolvimento web, utilizando tecnologias como HTML, CSS, Flask, Python, MySQL e sistemas de indicadores operacionais.
+
+Tenho vasta experiência em HTML e CSS, criando páginas web dinâmicas e responsivas que se adaptam a diferentes dispositivos. Além disso, sou especialista em Flask, um framework em Python para desenvolvimento web, com o qual crio aplicações web robustas e escaláveis.
+
+Em relação a banco de dados, sou proficiente em MySQL e posso facilmente criar, modificar e consultar bancos de dados, além de aplicar boas práticas de segurança e eficiência.
+
+Por fim, possuo conhecimento em sistemas de indicadores operacionais, permitindo-me desenvolver soluções para análise de dados e tomada de decisões, auxiliando empresas a maximizar seus resultados.
+
+Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades, por isso, fique à vontade para explorar meu repositório e conhecer alguns dos projetos em que trabalhei. Se você tiver alguma dúvida ou quiser colaborar com algum projeto, sinta-se à vontade para entrar em contato comigo.
+
 <div>
   <a href="https://github.com/Douglaxz">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglaxz&theme=dark&layout=compact" />
