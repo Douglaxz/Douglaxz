@@ -1,6 +1,4 @@
-### Olá, eu sou o Douglas Amaral👋
-
-Olá, bem-vindo ao meu GitHub!
+### Olá, bem-vindo ao meu GitHub!👋
 
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Meu foco principal é em desenvolvimento web, utilizando tecnologias como HTML, CSS, Flask, Python, MySQL e sistemas de indicadores operacionais.
 
